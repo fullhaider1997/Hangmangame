@@ -1,4 +1,6 @@
 
+#Simple exercise for programming class
+
 secretWord = "Haider"
 numOfLetters = len(secretWord)
 numOfLettersGuessed = 0
